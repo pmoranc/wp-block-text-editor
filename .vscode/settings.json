@@ -1,0 +1,15 @@
+{
+	"[scss]": 
+	{ 
+		"edit.formatOnSave": false, 
+		"editor.codeActionOnSave": 
+		{ 
+			"source.fixAll.stylelint": true 
+		}
+	},
+	"prettier.configPath": "",
+	"css.validate": false,
+	"less.validate": false,
+	"scss.validate": false,
+	"stylelint.validate": [ "css", "scss"]
+}
